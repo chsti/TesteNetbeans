@@ -18,7 +18,6 @@ public class HelloWord {
         // TODO code application logic here
         System.out.println("Hello World");
         //Atualizando
-        System.out.println("Teste Atualização");
     }
     
 }
